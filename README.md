@@ -1,79 +1,104 @@
 # 👋 Hi, I'm Bagus Diaz Pratama
 
-🎯 Data Analyst | Data Engineer  
-📍 Indonesia
+🎯 Data Analyst & Data Engineer  
+📍 Indonesia · Open to opportunities
 
 ---
 
-## 🚀 Professional Summary
-I am a Data Analyst with strong interest and hands-on experience in **data analysis, data engineering, and analytics workflows**.  
-I enjoy working with data end-to-end — from collecting and transforming raw data, building analytical datasets, to delivering insights through analysis, forecasting, and dashboards.
+## 🚀 About Me
 
-My background includes projects in **sentiment analysis (NLP), time series forecasting, ETL pipelines, and business-oriented analytics**, both academic and practical.
+I build **end-to-end data solutions** — from raw data ingestion and pipeline engineering to machine learning and interactive dashboards.
+
+My work spans across industries and problem types: safety analytics, retail intelligence, EV market trends, carbon forecasting, and NLP. I care about delivering data that's not just clean, but actually useful for decision-making.
+
+> *"Data without insight is just storage. I build the bridge between the two."*
 
 ---
 
 ## 🧠 Core Expertise
-- Data Analysis & Exploratory Data Analysis (EDA)
-- Data Cleaning, Transformation, and Validation
-- ETL / ELT Pipelines
-- Statistical Analysis & Time Series Forecasting
-- Natural Language Processing (NLP)
-- Analytics & Business Reporting
 
----
-
-## 🛠️ Technical Skills
-
-### Languages & Query
-- Python
-- SQL
-
-### Data Analysis & Visualization
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Power BI
-
-### Data Engineering
-- Data Modeling (Fact & Dimension Tables)
-- ETL Pipelines
-- Apache Airflow (workflow orchestration)
-- PostgreSQL
-
-### Machine Learning & Analytics
-- Time Series Analysis (ARIMA)
-- Sentiment Analysis (IndoBERT)
-- Scikit-learn
-- PyTorch & Hugging Face (basic)
+| Area | Skills |
+|---|---|
+| Data Engineering | ETL/ELT Pipelines, Apache Airflow, SQL Server, PostgreSQL |
+| Data Analysis | EDA, Statistical Analysis, Time Series Forecasting |
+| Machine Learning | Clustering (K-Means), ARIMA, NLP (IndoBERT), Scikit-learn |
+| Visualization | Power BI, Matplotlib, Seaborn |
+| Languages | Python, SQL |
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Carbon Emission Forecasting
-Time series analysis and ARIMA-based forecasting to analyze and predict global carbon emission trends.  
-**Focus:** EDA, statistical validation, forecasting, reproducible analytics outputs.
+### ⛏️ [Mining Accident Analysis & Risk Assessment](https://github.com/BagusPratama07/mining-safety-analysis)
+> **Stack:** Python · SQL Server · Power BI · scikit-learn
 
-### 🔹 Sentiment Analysis using IndoBERT
-Binary sentiment analysis of Indonesian Twitter data using IndoBERT.  
-**Focus:** Data crawling, preprocessing, data augmentation, and NLP modeling.
+End-to-end data pipeline analyzing **270,921 mining accident records** (2000–2026) from the U.S. MSHA government database. Built automated ETL, applied K-Means clustering to identify 4 distinct risk profiles, and delivered an interactive Power BI dashboard for safety management reporting.
 
-### 🔹 Analytics & Dashboard Projects
-Business-oriented data analysis and dashboard development to support decision-making.
+**Highlights:** K-Means clustering · SQL Server staging & production layers · Power BI dashboard · 270k+ records processed
+
+---
+
+### 🛒 [ETL Pipeline — Retail Product Scraping](https://github.com/BagusPratama07/ETL-Pipeline-Retail-Scraping)
+> **Stack:** Python · PostgreSQL · Jupyter Notebook
+
+End-to-end ETL pipeline that scrapes retail product data, transforms and validates it through a structured pipeline, and loads it into a PostgreSQL database for downstream analysis.
+
+**Highlights:** Web scraping · Data validation · PostgreSQL ingestion · Automated ETL workflow
+
+---
+
+### ✈️ [ETL Automation with Apache Airflow](https://github.com/BagusPratama07/ETL-Automation-Airflow)
+> **Stack:** Python · Apache Airflow · Jupyter Notebook
+
+Automated ETL workflow orchestration using Apache Airflow with DAG scheduling, dependency management, and pipeline monitoring. Demonstrates production-grade data engineering practices.
+
+**Highlights:** DAG design · Task dependency · Workflow scheduling · Pipeline monitoring
+
+---
+
+### 🚗 [Car Sales Analysis & Price Prediction](https://github.com/BagusPratama07/car-sales-analysis-and-price-prediction)
+> **Stack:** Python · scikit-learn · Jupyter Notebook
+
+Comprehensive car sales analysis combining exploratory data analysis, statistical insights, and machine learning-based price prediction. Covers the full analytical workflow from raw data to actionable business insights.
+
+**Highlights:** EDA · Feature engineering · ML price modeling · Business insight reporting
+
+---
+
+### 🌱 [Carbon Emission Forecasting](https://github.com/BagusPratama07/carbon-emission-forecasting-analysis)
+> **Stack:** Python · ARIMA · Jupyter Notebook
+
+Time series analysis and ARIMA-based forecasting to analyze and predict global carbon emission trends. Includes statistical validation, stationarity testing, and reproducible forecast outputs.
+
+**Highlights:** ARIMA modeling · Time series decomposition · Statistical validation · Reproducible analytics
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages      Python · SQL
+Analysis       Pandas · NumPy · Matplotlib · Seaborn
+Engineering    Apache Airflow · PostgreSQL · SQL Server · ETL/ELT
+ML & NLP       Scikit-learn · ARIMA · IndoBERT · PyTorch · Hugging Face
+Visualization  Power BI · Power Query · DAX
+Tools          Git · Jupyter · VS Code
+```
 
 ---
 
 ## 🎓 Education & Training
-- **Hacktiv8 – Data Analytics Bootcamp**  
-  Core skills: Data Wrangling, Statistical Analysis, Machine Learning, NLP, SQL, Data Visualization
+
+**Hacktiv8 — Data Analytics Bootcamp**  
+Data Wrangling · Statistical Analysis · Machine Learning · NLP · SQL · Data Visualization
 
 ---
 
-## 🔗 Connect with Me
-- 💼 LinkedIn: www.linkedin.com/in/bagus-diaz-pratama
-- 📧 Email: bagusdiazp@gmail.com
+## 🔗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bagus%20Diaz%20Pratama-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/bagus-diaz-pratama)
+[![Email](https://img.shields.io/badge/Email-bagusdiazp%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bagusdiazp@gmail.com)
 
 ---
 
-⭐ Feel free to explore my repositories.  
-I’m open to opportunities in **Data Analyst, Data Engineer, and Analytics-related roles**.
+*I'm actively looking for opportunities in **Data Analyst**, **Data Engineer**, and **Analytics Engineering** roles. Feel free to explore my repositories and reach out!*
